@@ -1,12 +1,4 @@
-![Header](./header-image.png)
-
-### Hi, I'm Vladislav
-
-<html>
-  <body>
-    <h1>Hello there</h1>
-  </body>
-</html>
+<img src="./header-image.png" alt="Header Image" width="100%">
 
 <!--
 **nomoreqwerty/nomoreqwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
