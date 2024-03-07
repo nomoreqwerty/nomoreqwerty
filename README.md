@@ -6,7 +6,7 @@
   </a>
 </div>
 <div id="views-counter-badge" align="center">
-  <img src="https://komarev.com/ghpvc/?username=j2982vj200rq9i094ir90190v309r&style=for-the-badge&color=red" alt="Views Counter Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=nomoreqwerty&style=for-the-badge&color=red" alt="Views Counter Badge"/>
 </div>
 
 <div class="title" align="center">
