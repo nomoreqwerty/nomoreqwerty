@@ -1,16 +1,15 @@
-<img src="./header-image.png" alt="Header Image" width="100%">
+<img src="./header-image.png" alt="Header Image">
 
-<!--
-**nomoreqwerty/nomoreqwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="t.me/nomoreqwerty">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+<div id="views-counter-badge" align="center">
+  <img src="https://komarev.com/ghpvc/?username=j2982vj200rq9i094ir90190v309r&style=for-the-badge&color=red" alt="Views Counter Badge"/>
+</div>
 
-Here are some ideas to get you started:
+<div class="title" align="center">
+  <h1>Hey! 👋</h1>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
