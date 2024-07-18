@@ -1,6 +1,3 @@
-![github-banner](https://github.com/nomoreqwerty/nomoreqwerty/assets/72273722/f5f6a1e0-8f96-47c0-9712-fcfbfdf5c948)
-
-
 <div id="badges" align="center">
   <a href="https://t.me/nomoreqwerty">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
